@@ -1,7 +1,7 @@
 # Capstone
 CapstoneProject
 ## by 
-> * Brandon Neuheisel
+* Brandon Neuheisel
 * Brennan Robin
 * Charinee Chantarasak
 * Jamie Reichenberger
